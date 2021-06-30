@@ -10,7 +10,7 @@ Ce projet, s'inscrit dans un objectif de prévention en santé publique et prend
 
 Le jeu se joue par équipe. Deux équipes guident le personnage dans ses choix sous les directive d'un maître du jeu qui peut s'appuyer sur le jeu pour transmettre des conseils supplémentaires. Nous mettons à la disposition du maître du jeu, un guide complet pour le guider dans sa tâche.
 
-{% embed url="https://i2ml.github.io/SeriousGame/tuto.html" caption="Lancez le jeu en cliquant sur le lien ci-dessus !" %}
+{% embed url="https://i2ml.github.io/SeriousGame/" caption="Lancez le jeu en cliquant sur le lien ci-dessus !" %}
 
 ### Financeurs
 
