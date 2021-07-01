@@ -1,6 +1,6 @@
 # Résultat d'impact
 
-Chaque situation amène à un résultat sur Arthur. Dans un premier temps, ce dernier fait un choix parmi les différentes issues sélectionnées par les deux équipes.
+Chaque situation impacte positivement ou négativement Arthur. Dans un premier temps, ce dernier fait un choix parmi les différentes issues sélectionnées par les deux équipes.
 
 Une fois ce choix réalisé, il est affiché en plein écran.
 
