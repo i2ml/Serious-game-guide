@@ -1,6 +1,10 @@
 # Faire le bilan en fin de partie
 
-**Comment interpréter les résultats ?**
+![&#xC9;cran de fin de jeu](../.gitbook/assets/image%20%2821%29.png)
+
+En fin de partie la fiche du personnage s'affiche en plein écran. On y retrouve toutes les informations sur arthur.
+
+### **Comment interpréter la note ?**
 
 En dessous du personnage, vous trouverez une note allant de A à D symbolisant la cohésion entre les équipes. 
 
