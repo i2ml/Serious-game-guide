@@ -2,7 +2,7 @@
 
 ![&#xC9;cran de fin de jeu](../.gitbook/assets/image%20%2822%29.png)
 
-En fin de partie la fiche du personnage s'affiche en plein écran. On y retrouve toutes les informations sur arthur.
+En fin de partie la fiche du personnage s'affiche en plein écran. On y retrouve toutes les informations sur Arthur.
 
 ### **Comment interpréter la note ?**
 
