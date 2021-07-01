@@ -1,6 +1,6 @@
 # Faire le bilan en fin de partie
 
-![&#xC9;cran de fin de jeu](../.gitbook/assets/image%20%2821%29.png)
+![&#xC9;cran de fin de jeu](../.gitbook/assets/image%20%2822%29.png)
 
 En fin de partie la fiche du personnage s'affiche en plein écran. On y retrouve toutes les informations sur arthur.
 
