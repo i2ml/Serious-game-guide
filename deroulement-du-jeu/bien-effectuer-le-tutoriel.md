@@ -24,9 +24,11 @@ Nous conseillons de créer deux équipes de taille similaire. Et de permettre au
 
 La page du choix des noms des équipes est également l'occasion de présenter le personnage principal du jeu : Arthur.
 
-![Fiche d&apos;information du personnage principal](../.gitbook/assets/image%20%2819%29.png)
+![Fiche d&apos;information d&apos;origine du personnage principal](../.gitbook/assets/image%20%2820%29.png)
 
 Certaines de ces informations sont reprises dans le jeu mais pas toutes. Il s'agira d'extraire les informations essentielles et de les communiquer aux participants lors de la présentation du jeu.
+
+![Pr&#xE9;sentation du personnage dans le jeu](../.gitbook/assets/image%20%2819%29.png)
 
 
 
