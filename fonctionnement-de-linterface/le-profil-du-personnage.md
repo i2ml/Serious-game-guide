@@ -98,5 +98,5 @@ A la fin du jeu, l'écran affiché est le profil du personnage.
 
 ![L&apos;&#xE9;cran de fin de jeu.](../.gitbook/assets/image%20%288%29.png)
 
-Une fois sur cet écran, si vous souhaitez recommencer une partie, raffraichissez la page.
+Une fois sur cet écran, si vous souhaitez recommencer une partie, rafraîchissez la page.
 
