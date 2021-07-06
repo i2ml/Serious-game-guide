@@ -1,6 +1,6 @@
 # Conseils nutritionnels spécifiques aux situations
 
-### Il y a plusieurs types de caséine dans le lait mais les deux formes les plus communes de la caséine bêta sont les suivantes :Situation 1 : 
+### Situation 1 : 
 
 `Il est 13 heures, Arthur sort de table, après son fromage il lui reste une petite place pour un dessert. Penché au-dessus de son frigo il hésite entre plusieurs options` 
 
@@ -40,9 +40,7 @@ Le **lait de brebis** est très riche en matières grasses, deux fois plus que l
 
 Concernant **le lait de montagne** :
 
-La caséine est le groupe majeur de protéines dans le lait, ce qui représente environ 80% du contenu total de protéines.
-
-
+La caséine est le groupe majeur de protéines dans le lait, ce qui représente environ 80% du contenu total de protéines. Il y a plusieurs types de caséine dans le lait mais les deux formes les plus communes de la caséine bêta sont les suivantes :
 
 ·       **La caséine bêta A1 :**Le lait des races de vaches qui proviennent de l’Europe du Nord est généralement riche en caséine bêta A1. Le lait A1 provient de races comme Holstein, Friesian, Ayrshire et British Shorthorn.
 
