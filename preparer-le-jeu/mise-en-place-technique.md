@@ -15,13 +15,9 @@ Avant de commencer votre partie, assurez vous que le jeu fonctionne correctement
 
 {% embed url="https://i2ml.github.io/SeriousGame/" %}
 
-{% hint style="warning" %}
-Faites en sorte que le texte soit visible par le plus grand nombre sur l'écran qui fait face aux joueurs. N'hésitez pas à zoomer sur la page à l'aide de la touche `ctrl` et de la molette de votre souris si l'affichage ne vous convient pas.
-{% endhint %}
-
 ## Jouer sans connexion internet.
 
-Il est possible de jouer au serious-game sans avoir de connexion internet. Cependant, cela necessite un petit peu de préparation en amont.
+Il est possible de jouer au serious-game sans avoir de connexion internet. Cependant, cela nécessite un petit peu de préparation en amont.
 
 Rendez vous sur le github du projet en suivant ce lien. 
 
@@ -55,6 +51,4 @@ Cet outil peut être téléchargé ici : [https://www.7-zip.org/download.html](h
 Une fois décompressé, vous obtenez un dossier contenant le code du jeu. Pour lancer le jeu il vous suffit d'ouvrir le fichier **index.html** à l'aide du navigateur de votre choix. 
 
 ![Lancement du jeu](../.gitbook/assets/image%20%285%29.png)
-
-
 

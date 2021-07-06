@@ -10,6 +10,14 @@ Si la plupart des informations importantes sont visible durant le jeu, il est du
 
 La lecture attentive de ce guide permet de se former à l'utilisation du serious-game. 
 
+## Si le texte est trop petit
+
+{% hint style="danger" %}
+Faites en sorte que le texte soit visible par le plus grand nombre sur l'écran qui fait face aux joueurs. N'hésitez pas à zoomer sur la page à l'aide de la touche `ctrl` et de la molette de votre souris si l'affichage ne vous convient pas.
+{% endhint %}
+
+![Utilisez le zoom de votre navigateur pour trouver la bonne taille de texte](../.gitbook/assets/zoom.gif)
+
 ## Consignes importantes
 
 Le maître du jeu contrôle la totalité des actions des joueurs, le bon déroulement du jeu dépend de lui et ses erreurs ont donc un impact potentiellement important sur la partie. Nous avons réunis ci-dessous quelques conseils pour éviter les plus communes.
