@@ -1,6 +1,6 @@
 # Conseils nutritionnels spécifiques aux situations
 
-### Situation 1 : 
+### Il y a plusieurs types de caséine dans le lait mais les deux formes les plus communes de la caséine bêta sont les suivantes :Situation 1 : 
 
 `Il est 13 heures, Arthur sort de table, après son fromage il lui reste une petite place pour un dessert. Penché au-dessus de son frigo il hésite entre plusieurs options` 
 
@@ -42,13 +42,13 @@ Concernant **le lait de montagne** :
 
 La caséine est le groupe majeur de protéines dans le lait, ce qui représente environ 80% du contenu total de protéines.
 
-Il y a plusieurs types de caséine dans le lait mais les deux formes les plus communes de la caséine beta sont les suivantes :
 
-·       **La caséine beta A1 :**Le lait des races de vaches qui proviennent de l’Europe du Nord est généralement riche en caséine beta A1. Le lait A1 provient de races comme Holstein, Friesian, Ayrshire et British Shorthorn.
 
-·       **La caséine beta A2 :**Le lait est riche en caséine beta A2 provient principalement des races qui des îles Anglo-Normandes et du Sud de la France. Ça inclut les races comme Guernesey, Jersey, Charolais et Limousin \([1](http://www.ncbi.nlm.nih.stfi.re/pubmed/15453478?sf=vkvpayj), [2](http://www.ncbi.nlm.nih.stfi.re/pubmed/15867940?sf=yrbpwrp)\).
+·       **La caséine bêta A1 :**Le lait des races de vaches qui proviennent de l’Europe du Nord est généralement riche en caséine bêta A1. Le lait A1 provient de races comme Holstein, Friesian, Ayrshire et British Shorthorn.
 
-Le lait ordinaire contient à la fois la caséine beta A1 et A2, mais le lait A2 ne contient que la caséine beta A2. Selon certaines théories, la bêta-caséine A1 serait plus difficile à digérer pour certaines personnes en ralentissant le transit intestinal et donc pourrait entrainer de la constipation. Elle pourrait aussi causer de l’inflammation et ainsi occasionner des maux de ventre et d’autres symptômes digestifs chez les personnes qui sont plus sensibles.
+·       **La caséine bêta A2 :**Le lait est riche en caséine bêta A2 provient principalement des races qui des îles Anglo-Normandes et du Sud de la France. Ça inclut les races comme Guernesey, Jersey, Charolais et Limousin \([1](http://www.ncbi.nlm.nih.stfi.re/pubmed/15453478?sf=vkvpayj), [2](http://www.ncbi.nlm.nih.stfi.re/pubmed/15867940?sf=yrbpwrp)\).
+
+Le lait ordinaire contient à la fois la caséine bêta A1 et A2, mais le lait A2 ne contient que la caséine bêta A2. Selon certaines théories, la bêta-caséine A1 serait plus difficile à digérer pour certaines personnes en ralentissant le transit intestinal et donc pourrait entraîner de la constipation. Elle pourrait aussi causer de l’inflammation et ainsi occasionner des maux de ventre et d’autres symptômes digestifs chez les personnes qui sont plus sensibles.
 
 Les individus qui souffrent d’intolérance au lactose tolèrent habituellement bien le **yaourt**, car le lactose y est déjà partiellement hydrolysé par les bactéries.
 
@@ -88,28 +88,28 @@ De plus, les prix sont souvent moins élevés car les produits viennent de moins
 
 #### Pourquoi le saumon est particulièrement exposé aux polluants et métaux lourds ?
 
-Les poissons au sommet de la chaine alimentaire, c’est-à-dire les plus imposants, sont plus susceptibles de contenir de fortes quantités de métaux lourds \(mercure, plomb\) et des polluants, dont certains composés tels que les PCB qui sont très liposolubles. Ces molécules ont des effets sur le développement mental et moteur de l’enfant, ainsi que sur le système endocrinien de l’adulte.
+Les poissons au sommet de la chaîne alimentaire, c’est-à-dire les plus imposants, sont plus susceptibles de contenir de fortes quantités de métaux lourds \(mercure, plomb\) et des polluants, dont certains composés tels que les PCB qui sont très liposolubles. Ces molécules ont des effets sur le développement mental et moteur de l’enfant, ainsi que sur le système endocrinien de l’adulte.
 
-#### Quels sont les rôles des omégas 3 et où les trouver ?
+#### Quels sont les rôles des oméga-3 et où les trouver ?
 
 * Fluidification du sang
 * Développement du système nerveux
 * Développement de la rétine
 
 {% hint style="info" %}
-Les oléagineux, certaines huiles \(noix, soja, colza, lin\), les poissons gras \(saumon, sardine, maquereau\), épinard, avocat sont les principales sources d'omégas 3
+Les oléagineux, certaines huiles \(noix, soja, colza, lin\), les poissons gras \(saumon, sardine, maquereau\), épinard, avocat sont les principales sources d'oméga-3
 {% endhint %}
 
-#### Quels sont les rôles des omégas 6 et où les trouver ?
+#### Quels sont les rôles des oméga-6 et où les trouver ?
 
 * Intervient dans la réponse immunitaire
 * Diminue LDL-cholestérol \(=baisse de la lipémie\)
 
 {% hint style="info" %}
-La plupart des huiles végétales : huile de tournesol, huile de pépin de raisin, huile de germe de blé sont des sources d'omégas 6.
+La plupart des huiles végétales : huile de tournesol, huile de pépin de raisin, huile de germe de blé sont des sources d'oméga-6.
 {% endhint %}
 
-#### Pourquoi respecter le rapport oméga 6/oméga 3 &gt; 5 ?
+#### Pourquoi respecter le rapport oméga-6/oméga-3 &gt; 5 ?
 
 Respecter le rapport permet la stabilisation entre fluidification et coagulation du sang.
 
@@ -232,7 +232,7 @@ Ils apportent généralement :
 
 * Minéraux \(magnésium, fer, calcium, potassium\)
 * Vitamines dites « liposolubles » \(A, D, E, K\)
-* Acides gras insaturés \(notamment des omégas 3\) et phytostérols \(qui régulent le cholestérol\)
+* Acides gras insaturés \(notamment des oméga-3\) et phytostérols \(qui régulent le cholestérol\)
 * Protéines \(jusqu'à 27 % suivant les fruits secs\)
 * Fibres
 
